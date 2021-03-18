@@ -9,6 +9,6 @@ Example code:
     
 >>> wbs.open_term('google.com', 'how to use python')
 
-No official documentation site. If you need help, you can visit the "Issues" section of this repository.
+No official documentation site. If you need help, you can visit the "Issues" section of this repository and leave a comment.
 
 Happy browsing!
