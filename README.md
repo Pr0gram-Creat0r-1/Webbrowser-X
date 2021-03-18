@@ -8,3 +8,7 @@ Example code:
 >>> #The file is called WBSX
     
 >>> wbs.open_term('google.com', 'how to use python')
+
+No official documentation site. If you need help, you can visit the "Issues" section of this repository.
+
+Happy browsing!
